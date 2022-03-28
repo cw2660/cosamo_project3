@@ -1,0 +1,59 @@
+[14:21:53][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:21:54][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1166 ms
+[14:21:54][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:21:55][INFO ][FrameworkServlet.java:547] - Completed initialization in 1034 ms
+[16:26:32][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:26:33][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1223 ms
+[16:26:33][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:26:34][INFO ][FrameworkServlet.java:547] - Completed initialization in 1081 ms
+[16:44:12][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:44:13][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1138 ms
+[16:44:13][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:44:14][INFO ][FrameworkServlet.java:547] - Completed initialization in 1047 ms
+[16:44:18][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/btop3.do
+[16:44:18][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/ntop3.do
+[16:46:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:46:39][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1130 ms
+[16:46:39][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:46:40][INFO ][FrameworkServlet.java:547] - Completed initialization in 1039 ms
+[16:46:43][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/btop3.do
+[16:46:43][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/ntop3.do
+[16:53:08][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:53:09][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1117 ms
+[16:53:09][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:53:10][INFO ][FrameworkServlet.java:547] - Completed initialization in 1028 ms
+[16:53:15][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/btop3.do
+[16:54:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:54:39][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[16:54:39][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:54:40][INFO ][FrameworkServlet.java:547] - Completed initialization in 1021 ms
+[16:54:45][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/btop3.do
+[16:56:49][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:56:50][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1113 ms
+[16:56:50][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:56:51][INFO ][FrameworkServlet.java:547] - Completed initialization in 1038 ms
+[16:56:56][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/btop3.do
+[17:00:30][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:00:32][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1123 ms
+[17:00:32][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:00:33][INFO ][FrameworkServlet.java:547] - Completed initialization in 1025 ms
+[17:00:38][WARN ][DispatcherServlet.java:1251] - No mapping for POST /web/btop3.do
+[17:11:21][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:11:22][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1126 ms
+[17:11:22][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:11:24][INFO ][FrameworkServlet.java:547] - Completed initialization in 1038 ms
+[17:11:32][WARN ][DispatcherServlet.java:1251] - No mapping for GET /web/bdetail.do
+[17:36:14][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:36:15][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1124 ms
+[17:36:15][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:36:16][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[17:36:40][INFO ][MemberController.java:95] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[17:36:55][INFO ][MemberController.java:95] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[17:37:06][WARN ][DispatcherServlet.java:1251] - No mapping for GET /web/blist.do
+[17:39:43][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:39:44][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1120 ms
+[17:39:44][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:39:45][INFO ][FrameworkServlet.java:547] - Completed initialization in 1034 ms
+[17:39:55][WARN ][DispatcherServlet.java:1251] - No mapping for GET /web/blist.do
+[17:40:01][WARN ][DispatcherServlet.java:1251] - No mapping for GET /web/ndetail.do
+[17:40:16][INFO ][MemberController.java:95] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]

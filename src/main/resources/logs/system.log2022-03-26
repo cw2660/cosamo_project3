@@ -1,0 +1,838 @@
+[02:10:41][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[02:10:42][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1109 ms
+[02:10:42][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[02:10:43][INFO ][FrameworkServlet.java:547] - Completed initialization in 919 ms
+[02:10:54][WARN ][DispatcherServlet.java:1251] - No mapping for GET /web/loginPage.do
+[02:12:20][WARN ][DispatcherServlet.java:1251] - No mapping for GET /web/loginPage.do
+[02:19:43][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[02:19:44][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[02:19:44][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[02:19:45][INFO ][FrameworkServlet.java:547] - Completed initialization in 922 ms
+[02:55:20][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[02:55:21][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1111 ms
+[02:55:21][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[02:55:22][INFO ][FrameworkServlet.java:547] - Completed initialization in 908 ms
+[03:00:05][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:00:06][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1118 ms
+[03:00:06][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:00:07][INFO ][FrameworkServlet.java:547] - Completed initialization in 909 ms
+[03:02:41][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:02:42][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[03:02:42][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:02:43][INFO ][FrameworkServlet.java:547] - Completed initialization in 914 ms
+[03:04:03][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:04:04][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1115 ms
+[03:04:04][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:04:05][INFO ][FrameworkServlet.java:547] - Completed initialization in 909 ms
+[03:05:14][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:05:15][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[03:05:15][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:05:16][INFO ][FrameworkServlet.java:547] - Completed initialization in 918 ms
+[03:07:50][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:07:51][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1114 ms
+[03:07:51][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:07:52][INFO ][FrameworkServlet.java:547] - Completed initialization in 918 ms
+[03:09:10][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:09:11][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1110 ms
+[03:09:11][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:09:12][INFO ][FrameworkServlet.java:547] - Completed initialization in 910 ms
+[03:10:50][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:10:51][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1118 ms
+[03:10:51][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:10:52][INFO ][FrameworkServlet.java:547] - Completed initialization in 919 ms
+[03:12:48][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:12:49][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1115 ms
+[03:12:49][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:12:50][INFO ][FrameworkServlet.java:547] - Completed initialization in 916 ms
+[03:13:25][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:13:27][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1117 ms
+[03:13:27][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:13:27][INFO ][FrameworkServlet.java:547] - Completed initialization in 920 ms
+[03:15:17][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:15:18][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1113 ms
+[03:15:18][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:15:19][INFO ][FrameworkServlet.java:547] - Completed initialization in 917 ms
+[03:18:20][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:18:21][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1115 ms
+[03:18:21][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:18:22][INFO ][FrameworkServlet.java:547] - Completed initialization in 908 ms
+[03:19:25][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:19:26][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1118 ms
+[03:19:26][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:19:27][INFO ][FrameworkServlet.java:547] - Completed initialization in 915 ms
+[03:22:10][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:22:11][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1113 ms
+[03:22:11][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:22:12][INFO ][FrameworkServlet.java:547] - Completed initialization in 909 ms
+[03:23:11][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:23:12][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1117 ms
+[03:23:12][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:23:13][INFO ][FrameworkServlet.java:547] - Completed initialization in 916 ms
+[03:27:35][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:27:36][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1114 ms
+[03:27:36][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:27:37][INFO ][FrameworkServlet.java:547] - Completed initialization in 920 ms
+[03:30:16][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[03:30:17][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1120 ms
+[03:30:17][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[03:30:18][INFO ][FrameworkServlet.java:547] - Completed initialization in 916 ms
+[10:30:39][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[10:30:40][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1164 ms
+[10:30:40][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[10:30:41][INFO ][FrameworkServlet.java:547] - Completed initialization in 944 ms
+[10:33:44][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[10:33:45][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[10:33:45][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[10:33:46][INFO ][FrameworkServlet.java:547] - Completed initialization in 929 ms
+[10:46:50][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[10:46:52][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1127 ms
+[10:46:52][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[10:46:52][INFO ][FrameworkServlet.java:547] - Completed initialization in 918 ms
+[10:59:55][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[10:59:56][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1130 ms
+[10:59:56][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[10:59:57][INFO ][FrameworkServlet.java:547] - Completed initialization in 931 ms
+[11:13:10][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[11:13:11][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1135 ms
+[11:13:11][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[11:13:12][INFO ][FrameworkServlet.java:547] - Completed initialization in 933 ms
+[11:29:21][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[11:29:22][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1135 ms
+[11:29:22][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[11:29:23][INFO ][FrameworkServlet.java:547] - Completed initialization in 934 ms
+[12:30:34][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[12:30:35][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1145 ms
+[12:48:34][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[12:48:35][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1140 ms
+[12:49:24][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[12:49:25][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1137 ms
+[12:50:03][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[12:50:04][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[13:05:46][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:05:47][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1135 ms
+[13:07:44][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:07:45][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1134 ms
+[13:14:50][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:14:51][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1141 ms
+[13:40:36][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:40:37][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[13:47:42][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:47:44][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1116 ms
+[13:50:07][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:50:08][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1120 ms
+[13:50:08][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:50:09][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[13:50:09][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 31 more
+[13:50:16][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:50:16][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[13:50:16][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:789)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:688)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:462)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:388)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:316)
+	at org.apache.jasper.runtime.PageContextImpl.doForward(PageContextImpl.java:735)
+	at org.apache.jasper.runtime.PageContextImpl.forward(PageContextImpl.java:707)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:118)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 57 more
+[13:54:41][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:54:42][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1120 ms
+[13:54:42][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:54:43][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[13:54:43][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 31 more
+[13:57:14][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:57:15][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[13:57:15][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:57:16][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[13:57:16][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 31 more
+[13:58:33][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:58:34][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[13:58:34][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:58:35][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[13:58:35][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 31 more
+[14:05:04][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:05:05][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1117 ms
+[14:05:05][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:05:06][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[14:05:06][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 31 more
+[14:08:28][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:08:29][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1119 ms
+[14:08:29][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:08:30][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[14:08:30][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 31 more
+[14:08:35][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:08:35][WARN ][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[14:08:35][ERROR][FrameworkServlet.java:534] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberController': Unsatisfied dependency expressed through field 'bcryptPasswordEncoder'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:789)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:688)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:462)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:388)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:316)
+	at org.apache.jasper.runtime.PageContextImpl.doForward(PageContextImpl.java:735)
+	at org.apache.jasper.runtime.PageContextImpl.forward(PageContextImpl.java:707)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:118)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 57 more
+[14:10:23][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:10:24][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1117 ms
+[14:10:24][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:10:25][INFO ][FrameworkServlet.java:547] - Completed initialization in 1018 ms
+[14:10:40][INFO ][MemberController.java:83] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:11:11][INFO ][MemberController.java:165] - mupdate.do : Member [userid=admin, userpwd=, username=관리자, gender=M, age=33, phone=010-1111-9999, email=admin@ncs.kr, hobby=game,reading,music, etc=관리자입니다., enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:11:11][INFO ][MemberController.java:166] - origin_userpwd : $2a$10$wMnJKFCMP8AAZKvZaE8NpeM9gFQ0TqNevvTOUcfNYXJSSKpjNik8W
+[14:11:11][INFO ][MemberController.java:183] - after : Member [userid=admin, userpwd=$2a$10$wMnJKFCMP8AAZKvZaE8NpeM9gFQ0TqNevvTOUcfNYXJSSKpjNik8W, username=관리자, gender=M, age=33, phone=010-1111-9999, email=admin@ncs.kr, hobby=game,reading,music, etc=관리자입니다., enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:13:43][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:13:44][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[14:13:44][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:13:45][INFO ][FrameworkServlet.java:547] - Completed initialization in 1021 ms
+[14:14:29][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:14:30][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[14:14:30][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:14:31][INFO ][FrameworkServlet.java:547] - Completed initialization in 1043 ms
+[14:15:28][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:15:29][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1115 ms
+[14:15:29][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:15:30][INFO ][FrameworkServlet.java:547] - Completed initialization in 1012 ms
+[14:16:07][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:16:08][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[14:16:08][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:16:09][INFO ][FrameworkServlet.java:547] - Completed initialization in 1010 ms
+[14:17:45][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:17:46][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[14:17:46][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:17:47][INFO ][FrameworkServlet.java:547] - Completed initialization in 1013 ms
+[14:18:49][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:18:51][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1129 ms
+[14:18:51][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:18:52][INFO ][FrameworkServlet.java:547] - Completed initialization in 1030 ms
+[14:20:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:20:39][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[14:20:39][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:20:40][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[14:22:24][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:22:25][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1126 ms
+[14:22:25][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:22:26][INFO ][FrameworkServlet.java:547] - Completed initialization in 1035 ms
+[14:22:39][INFO ][MemberController.java:83] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:23:08][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:23:09][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1115 ms
+[14:23:09][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:23:10][INFO ][FrameworkServlet.java:547] - Completed initialization in 1014 ms
+[14:23:19][INFO ][MemberController.java:83] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:24:31][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:24:32][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1122 ms
+[14:24:33][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:24:34][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[14:24:51][INFO ][MemberController.java:83] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:30:29][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:30:30][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1131 ms
+[14:30:30][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:30:31][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[14:38:15][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:38:16][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1148 ms
+[14:38:16][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:38:17][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[14:40:26][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:40:28][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[14:40:28][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:40:29][INFO ][FrameworkServlet.java:547] - Completed initialization in 1014 ms
+[14:43:37][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:43:38][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1130 ms
+[14:43:38][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:43:39][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[14:44:14][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:44:15][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[14:44:15][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:44:16][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[14:44:52][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:44:53][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[14:44:53][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:44:54][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[14:45:21][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:45:22][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1127 ms
+[14:45:22][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:45:23][INFO ][FrameworkServlet.java:547] - Completed initialization in 1035 ms
+[14:48:26][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:48:27][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[14:48:27][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:48:28][INFO ][FrameworkServlet.java:547] - Completed initialization in 1036 ms
+[14:49:15][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:49:16][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1146 ms
+[14:49:16][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:49:17][INFO ][FrameworkServlet.java:547] - Completed initialization in 1050 ms
+[14:50:29][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:50:30][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1134 ms
+[14:50:30][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:50:31][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[14:52:28][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:52:29][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1126 ms
+[14:52:29][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:52:30][INFO ][FrameworkServlet.java:547] - Completed initialization in 1029 ms
+[14:53:43][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:53:44][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[14:53:45][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:53:46][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[14:54:29][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:54:38][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:53][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:54][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:54][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:56][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:56][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:56][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:56][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:57][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:55:57][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userid' is not present]
+[14:58:37][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:58:38][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1138 ms
+[14:58:38][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:58:39][INFO ][FrameworkServlet.java:547] - Completed initialization in 1029 ms
+[14:59:29][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:59:30][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1126 ms
+[14:59:30][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:59:31][INFO ][FrameworkServlet.java:547] - Completed initialization in 1029 ms
+[15:00:11][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:00:13][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1135 ms
+[15:00:13][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:00:14][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[15:00:56][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:00:57][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1149 ms
+[15:00:57][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:00:58][INFO ][FrameworkServlet.java:547] - Completed initialization in 1034 ms
+[15:01:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:01:40][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1136 ms
+[15:01:40][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:01:41][INFO ][FrameworkServlet.java:547] - Completed initialization in 1034 ms
+[15:02:58][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:03:00][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1134 ms
+[15:03:00][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:03:01][INFO ][FrameworkServlet.java:547] - Completed initialization in 1037 ms
+[15:04:00][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:04:01][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1134 ms
+[15:04:01][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:04:02][INFO ][FrameworkServlet.java:547] - Completed initialization in 1030 ms
+[15:06:30][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:06:31][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[15:06:31][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:06:32][INFO ][FrameworkServlet.java:547] - Completed initialization in 1032 ms
+[15:06:54][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:06:55][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1136 ms
+[15:06:55][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:06:56][INFO ][FrameworkServlet.java:547] - Completed initialization in 1067 ms
+[15:07:41][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:07:42][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1140 ms
+[15:07:42][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:07:43][INFO ][FrameworkServlet.java:547] - Completed initialization in 1035 ms
+[15:09:06][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:09:07][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1130 ms
+[15:09:07][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:09:08][INFO ][FrameworkServlet.java:547] - Completed initialization in 1018 ms
+[15:12:47][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:12:48][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1129 ms
+[15:12:48][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:12:49][INFO ][FrameworkServlet.java:547] - Completed initialization in 1014 ms
+[15:13:42][INFO ][MemberController.java:136] - enroll.do : Member [userid=adad, userpwd=1111, username=한지훈, gender=F, age=35, phone=01022225555, email=asdf@aasdf.com, hobby=game,reading,climb,etc, etc=추가없음, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:13:42][INFO ][MemberController.java:140] - after encode : Member [userid=adad, userpwd=$2a$10$ogUSGm9hVovBE4XU1TVKFuLDUdWgzTusSV4P5NeU3s4Gd8vB1CjAm, username=한지훈, gender=F, age=35, phone=01022225555, email=asdf@aasdf.com, hobby=game,reading,climb,etc, etc=추가없음, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:13:52][INFO ][MemberController.java:87] - login.do : Member [userid=adad, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:15:34][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:15:35][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[15:15:35][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:15:36][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[15:17:33][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:17:35][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1127 ms
+[15:17:35][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:17:36][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[15:18:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:18:39][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[15:18:39][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:18:40][INFO ][FrameworkServlet.java:547] - Completed initialization in 1031 ms
+[15:19:15][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:19:16][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[15:19:16][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:19:17][INFO ][FrameworkServlet.java:547] - Completed initialization in 1020 ms
+[15:19:43][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:19:44][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1132 ms
+[15:19:44][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:19:45][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[15:19:57][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:19:58][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1124 ms
+[15:19:59][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:20:00][INFO ][FrameworkServlet.java:547] - Completed initialization in 1033 ms
+[15:20:40][INFO ][MemberController.java:136] - enroll.do : Member [userid=free, userpwd=1111, username=새로운, gender=M, age=35, phone=654654, email=asdf@asdf, hobby=climb,movie,etc, etc=텍스트추가사항연습작성, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:20:40][INFO ][MemberController.java:140] - after encode : Member [userid=free, userpwd=$2a$10$D3X/tRtZk4EEgJhqlb3eX.ieMThus83uxkzUbft.EoBFgc34LoyZi, username=새로운, gender=M, age=35, phone=654654, email=asdf@asdf, hobby=climb,movie,etc, etc=텍스트추가사항연습작성, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:20:49][INFO ][MemberController.java:87] - login.do : Member [userid=free, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:23:18][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:23:20][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1127 ms
+[15:23:20][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:23:21][INFO ][FrameworkServlet.java:547] - Completed initialization in 1019 ms
+[15:25:44][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:25:45][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1130 ms
+[15:25:45][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:25:46][INFO ][FrameworkServlet.java:547] - Completed initialization in 1038 ms
+[15:26:42][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:26:43][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1126 ms
+[15:26:43][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:26:44][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[15:28:25][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:28:26][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1129 ms
+[15:28:26][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:28:27][INFO ][FrameworkServlet.java:547] - Completed initialization in 1029 ms
+[15:29:29][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:29:30][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[15:29:30][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:29:31][INFO ][FrameworkServlet.java:547] - Completed initialization in 1028 ms
+[15:30:31][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:30:32][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1197 ms
+[15:30:32][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:30:33][INFO ][FrameworkServlet.java:547] - Completed initialization in 1084 ms
+[15:33:57][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:33:58][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[15:33:58][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:33:59][INFO ][FrameworkServlet.java:547] - Completed initialization in 1008 ms
+[15:47:00][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:47:01][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1131 ms
+[15:47:01][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:47:02][INFO ][FrameworkServlet.java:547] - Completed initialization in 1028 ms
+[15:47:16][INFO ][MemberController.java:88] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:50:49][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:50:50][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1133 ms
+[15:50:50][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:50:51][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[15:50:54][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[15:51:08][INFO ][MemberController.java:90] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:51:24][INFO ][MemberController.java:90] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:53:26][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:53:27][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1127 ms
+[15:53:28][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:53:29][INFO ][FrameworkServlet.java:547] - Completed initialization in 1029 ms
+[15:54:33][INFO ][MemberController.java:259] - loginok.do : user02, Y
+[15:55:29][INFO ][MemberController.java:259] - loginok.do : free, N
+[15:55:32][INFO ][MemberController.java:259] - loginok.do : adad, N
+[15:55:37][INFO ][MemberController.java:259] - loginok.do : user89, N
+[15:55:37][INFO ][MemberController.java:259] - loginok.do : passenco, N
+[15:55:38][INFO ][MemberController.java:259] - loginok.do : user02, N
+[15:55:45][INFO ][MemberController.java:259] - loginok.do : user02, Y
+[15:55:45][INFO ][MemberController.java:259] - loginok.do : passenco, Y
+[15:56:26][INFO ][MemberController.java:259] - loginok.do : user89, Y
+[15:56:27][INFO ][MemberController.java:259] - loginok.do : adad, Y
+[15:56:27][INFO ][MemberController.java:259] - loginok.do : free, Y
+[15:57:34][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:57:36][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1131 ms
+[15:57:36][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:57:37][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[15:58:03][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:58:04][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[15:58:04][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:58:05][INFO ][FrameworkServlet.java:547] - Completed initialization in 1028 ms
+[15:58:36][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:58:37][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1129 ms
+[15:58:38][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:58:39][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[15:59:15][INFO ][MemberController.java:90] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:04:00][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:04:01][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[16:04:01][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:04:02][INFO ][FrameworkServlet.java:547] - Completed initialization in 1030 ms
+[16:04:13][INFO ][MemberController.java:90] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:04:56][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:04:57][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1139 ms
+[16:04:57][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:04:59][INFO ][FrameworkServlet.java:547] - Completed initialization in 1032 ms
+[16:05:16][INFO ][MemberController.java:90] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:05:20][INFO ][MemberController.java:90] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:06:00][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:06:01][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1122 ms
+[16:06:01][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:06:02][INFO ][FrameworkServlet.java:547] - Completed initialization in 1014 ms
+[16:06:12][INFO ][MemberController.java:90] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:08:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:08:39][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1116 ms
+[16:08:40][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:08:41][INFO ][FrameworkServlet.java:547] - Completed initialization in 1011 ms
+[16:09:21][INFO ][MemberController.java:90] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:17:20][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:17:21][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[16:17:21][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:17:22][INFO ][FrameworkServlet.java:547] - Completed initialization in 1024 ms
+[16:18:46][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:18:48][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1129 ms
+[16:18:48][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:18:49][INFO ][FrameworkServlet.java:547] - Completed initialization in 1022 ms
+[16:19:28][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:19:29][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1131 ms
+[16:19:29][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:19:30][INFO ][FrameworkServlet.java:547] - Completed initialization in 1030 ms
+[16:19:49][INFO ][MemberController.java:95] - login.do : Member [userid=, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:20:25][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:20:26][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1128 ms
+[16:20:26][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:20:27][INFO ][FrameworkServlet.java:547] - Completed initialization in 1016 ms
+[16:22:25][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:22:26][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[16:22:26][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:22:27][INFO ][FrameworkServlet.java:547] - Completed initialization in 1009 ms
+[17:59:17][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:59:18][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1238 ms
+[17:59:18][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:59:19][INFO ][FrameworkServlet.java:547] - Completed initialization in 1076 ms
+[17:59:40][INFO ][MemberController.java:95] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[18:00:03][INFO ][MemberController.java:95] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[18:02:04][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[18:02:06][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1300 ms
+[18:02:06][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[18:02:07][INFO ][FrameworkServlet.java:547] - Completed initialization in 1176 ms
+[18:02:12][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[18:02:13][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1122 ms
+[18:02:13][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[18:02:14][INFO ][FrameworkServlet.java:547] - Completed initialization in 1011 ms
+[18:42:30][INFO ][MemberController.java:95] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[19:27:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[19:27:40][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1127 ms
+[19:27:40][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[19:27:41][INFO ][FrameworkServlet.java:547] - Completed initialization in 1027 ms
+[19:28:27][INFO ][MemberController.java:95] - login.do : Member [userid=free, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
